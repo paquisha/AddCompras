@@ -1,0 +1,40 @@
+[
+  {
+    "codigoRetorno": "0001",
+    "mensajeRetorno": "Consulta Ok",
+    "data":[
+      {
+        "id": 44,
+        "descripcion": "TERNO 2 PIEZAS SECO",
+        "precio": "8.5",
+        "estado": true,
+        "detalle": "El terno de 2 piezas incluyu la leva y el pantalon, el lavado es en seco, se entrega en armador y con se respectiva funda",
+        "imagen": "https://www.freepik.es/vector-gratis/traje-hombre-composicion-realista-traje-elegante-corbata-camisa-blanca-chaqueta_13706225.htm#query=terno&position=0&from_view=search&track=sph"
+      },
+      {
+        "id": 45,
+        "descripcion": "TERNO 3 PIEZAS SECO",
+        "precio": "9.5",
+        "estado": true,
+        "detalle": "El terno de 3 piezas incluyu la leva el chaleco y el pantalon, el lavado es en seco, se entrega en armador y con se respectiva funda",
+        "imagen": "https://www.freepik.es/vector-gratis/traje-hombre-composicion-realista-traje-elegante-corbata-camisa-blanca-chaqueta_13706225.htm#query=terno&position=0&from_view=search&track=sph"
+      },
+      {
+        "id": 46,
+        "descripcion": "LEVA SECO",
+        "precio": "4.75",
+        "estado": true,
+        "detalle": "la leva es lavada en seco con el mayor cuidado de la prenda, se entrega en armador y con se respectiva funda",
+        "imagen": "https://www.freepik.es/vector-gratis/traje-hombre-composicion-realista-traje-elegante-corbata-camisa-blanca-chaqueta_13706225.htm#query=terno&position=0&from_view=search&track=sph"
+      },
+      {
+        "id": 47,
+        "descripcion": "CAMISA SECO",
+        "precio": "3",
+        "estado": true,
+        "detalle": "La camisa es lavada en seco con el mayor cuidado de la prenda, se entrega en armador y con se respectiva funda",
+        "imagen": "https://www.freepik.es/vector-gratis/traje-hombre-composicion-realista-traje-elegante-corbata-camisa-blanca-chaqueta_13706225.htm#query=terno&position=0&from_view=search&track=sph"
+      }
+    ]
+  }
+]
