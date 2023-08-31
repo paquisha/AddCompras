@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yxNS8QGGH9bcOFQcfA0K42q6IgjfyZndAGC0VtakNiY=",
+  "Source": "AppLogin",
+  "BasePath": "_content/AppLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
